@@ -17,8 +17,7 @@
     
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ubtX0V5X3Pk?si=FKYCca5-Jh-bElNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     separador
     
@@ -48,22 +47,22 @@
                 ul.lista-ul--color
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Reduce la mortalidad, especialmente en animales jóvenes, geriátricos o inmunocomprometidos
+                    p.mb-0 Reduce la mortalidad, especialmente en animales jóvenes, geriátricos o inmunocomprometidos.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Disminuye la diseminación de enfermedades infecciosas, favoreciendo la inmunidad individual y colectiva
+                    p.mb-0 Disminuye la diseminación de enfermedades infecciosas, favoreciendo la inmunidad individual y colectiva.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Previene riesgos zoonóticos y protege a otras poblaciones animales y humanas
+                    p.mb-0 Previene riesgos zoonóticos y protege a otras poblaciones animales y humanas.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Evita tratamientos costosos, hospitalizaciones y pérdidas irreversibles
+                    p.mb-0 Evita tratamientos costosos, hospitalizaciones y pérdidas irreversibles.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Mejora la calidad y expectativa de vida del animal
+                    p.mb-0 Mejora la calidad y expectativa de vida del animal.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Fortalece el bienestar animal al evitar sufrimiento innecesario
+                    p.mb-0 Fortalece el bienestar animal al evitar sufrimiento innecesario.
 
     p.mb-5 La aplicación de vacunas debe realizarse exclusivamente por un médico veterinario, quien evaluará previamente las condiciones físicas, inmunológicas y ambientales del animal. Vacunar animales enfermos, debilitados o sin un esquema adecuado puede generar fallas en la respuesta inmune o reacciones adversas.
 
@@ -252,7 +251,7 @@
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 Desparasitación
     
-    p.mb-5 La desparasitación es una medida sanitaria esencial para el control de parásitos internos (endoparásitos) y externos (ectoparásitos) que afectan directa o indirectamente la salud de los animales de compañía. Estos parásitos pueden generar desde cuadros subclínicos hasta enfermedades graves, comprometiendo el bienestar animal y representando riesgos para la salud humana.Los principales efectos de los parásitos incluyen:
+    p.mb-5 La desparasitación es una medida sanitaria esencial para el control de parásitos internos (endoparásitos) y externos (ectoparásitos) que afectan directa o indirectamente la salud de los animales de compañía. Estos parásitos pueden generar desde cuadros subclínicos hasta enfermedades graves, comprometiendo el bienestar animal y representando riesgos para la salud humana. Los principales efectos de los parásitos incluyen:
 
     .row.justify-content-center
       .col-lg-10
@@ -266,16 +265,16 @@
                 ul.lista-ul--color
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Alteración en la absorción de nutrientes, lo que provoca pérdida de peso, retraso en el crecimiento y debilidad
+                    p.mb-0 Alteración en la absorción de nutrientes, lo que provoca pérdida de peso, retraso en el crecimiento y debilidad.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Afectación del sistema inmunológico, predisponiendo a infecciones secundarias
+                    p.mb-0 Afectación del sistema inmunológico, predisponiendo a infecciones secundarias.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Disminución del bienestar general, generando prurito, dolor, anemia, estrés y cambios de comportamiento
+                    p.mb-0 Disminución del bienestar general, generando prurito, dolor, anemia, estrés y cambios de comportamiento.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Riesgos para la salud pública, especialmente con parásitos zoonóticos como Toxocara spp., Ancylostoma spp. o Dipylidium caninum
+                    p.mb-0 Riesgos para la salud pública, especialmente con parásitos zoonóticos como Toxocara spp., Ancylostoma spp. o Dipylidium caninum.
     
     p.mb-5 La desparasitación debe ser periódica, preventiva y supervisada por un médico veterinario, quien determinará el producto, la dosis y la frecuencia adecuados según especie, edad, peso, estado fisiológico y condiciones de vida del animal. Los tipos de parásitos son: 
 
@@ -495,7 +494,7 @@
                     p.mb-0 Cambios de comportamiento, aislamiento o agresividad.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Vómitos o diarreas persistentes..
+                    p.mb-0 Vómitos o diarreas persistentes.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
                     p.mb-0 Letargo, debilidad o decaimiento general.
@@ -534,7 +533,7 @@
                 ul.lista-ul--color
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Mantener espacios seguros, higiénicos y libres de objetos cortopunzantes
+                    p.mb-0 Mantener espacios seguros, higiénicos y libres de objetos cortopunzantes.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
                     p.mb-0 Supervisar a los animales durante paseos y manipulaciones.

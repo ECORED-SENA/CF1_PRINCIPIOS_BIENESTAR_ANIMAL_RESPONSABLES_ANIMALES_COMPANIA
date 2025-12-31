@@ -331,7 +331,7 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema1/39.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Sistema respiratorio
-                p.text-center Muy eficiente pero sensible. Requiere ambientes ventilados y libres de humo o aerosoles.
+                p.text-center Muy eficiente, pero sensible. Requiere ambientes ventilados y libres de humo o aerosoles.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema1/40.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Pico y garras
@@ -529,7 +529,7 @@
                   p.mb-0 Conductas sociales intensas: requieren interacción constante.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
-                  p.mb-0 Comunicación vocal fundamental para su bienestar
+                  p.mb-0 Comunicación vocal fundamental para su bienestar.
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
                   p.mb-0 Necesidad de vuelo y acicalamiento.
@@ -712,7 +712,7 @@
                         p.mb-0 Asegurar la salud pública.
                       li.mb-2.d-flex
                         i.fas.fa-circle-check.bg-color-3
-                        p.mb-0 Promover una convivencia armónica entre las personas y sus mascotas
+                        p.mb-0 Promover una convivencia armónica entre las personas y sus mascotas.
 
 
 

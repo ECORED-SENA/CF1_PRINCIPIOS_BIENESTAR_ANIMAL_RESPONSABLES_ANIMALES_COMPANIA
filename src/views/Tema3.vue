@@ -9,7 +9,7 @@
     
     .bg-full-width.bg-color-4
       .p-4.p-md-5
-        p.mb-5 Las Cinco libertades del bienestar animal constituyen un marco conceptual, ético y técnico universalmente aceptado para evaluar y garantizar condiciones de vida dignas a los animales bajo cuidado humano. Este enfoque establece estándares mínimos que deben cumplirse para proteger la integridad física, emocional y comportamental de los animales, reconociendo su condición de seres sintientes, capaces de experimentar dolor, placer, miedo, estrés y bienestar.
+        p.mb-5 Las cinco libertades del bienestar animal constituyen un marco conceptual, ético y técnico universalmente aceptado para evaluar y garantizar condiciones de vida dignas a los animales bajo cuidado humano. Este enfoque establece estándares mínimos que deben cumplirse para proteger la integridad física, emocional y comportamental de los animales, reconociendo su condición de seres sintientes, capaces de experimentar dolor, placer, miedo, estrés y bienestar.
 
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(

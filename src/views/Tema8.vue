@@ -28,11 +28,11 @@
               .div(titulo="Trastornos digestivos y metabólicos")
                 p Aumenta el riesgo de enfermedades gastrointestinales, provoca apetito irregular y desórdenes metabólicos.
               .div(titulo="Problemas reproductivos")
-                p Problemas reproductivos.
+                p Disminuye la fertilidad, altera los ciclos y puede complicar el parto.
               .div(titulo="Cambios hormonales severos")
                 p Modifica los niveles de cortisol, adrenalina y otras hormonas clave.
               .div(titulo="Conductas agresivas o de retraimiento")
-                p Conductas agresivas o de retraimiento
+                p El animal puede volverse destructivo o evasivo.
               .div(titulo="Automutilaciones y estereotipias")
                 p Incluyen lamerse, morderse o realizar movimientos repetitivos sin función aparente.
               .div(titulo="Disminución de la esperanza y calidad de vida")
@@ -178,7 +178,7 @@
                   figure
                     img(src='@/assets/curso/tema8/10.svg', alt='Texto que describa la imagen')
               h4.text-center Asociación positiva
-              p.text-center Acompañar los sonidos con experiencias agradables (juegos, premios, caricias)
+              p.text-center Acompañar los sonidos con experiencias agradables (juegos, premios, caricias).
         
           .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-down")
             .tarjeta--boton.bg-color-6.p-4.h-100
@@ -187,7 +187,7 @@
                   figure
                     img(src='@/assets/curso/tema8/11.svg', alt='Texto que describa la imagen')
               h4.text-center Refugios seguros
-              p.text-center Proporcionar escondites o espacios tranquilos durante eventos ruidosos
+              p.text-center Proporcionar escondites o espacios tranquilos durante eventos ruidosos.
           .col-sm-6.col-lg-3.mb-4.mb-sm-0(data-aos="fade-down")
             .tarjeta--boton.bg-color-6.p-4.h-100
               .row.justify-content-center.mb-3
@@ -195,7 +195,7 @@
                   figure
                     img(src='@/assets/curso/tema8/11.svg', alt='Texto que describa la imagen')
               h4.text-center Evitar castigos
-              p.text-center No castigar al animal por mostrar miedo; esto intensifica la reacción negativa
+              p.text-center No castigar al animal por mostrar miedo; esto intensifica la reacción negativa.
 
     p.mb-5 En especies sensibles como aves y pequeños mamíferos, el ruido debe evitarse al máximo, ubicándolos en zonas tranquilas y protegidas, ya que el estrés agudo puede causar la muerte.
 
@@ -214,11 +214,11 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema8/13.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Caninos
-                p.text-center Espacios ventilados, secos, con áreas diferenciadas para descanso, alimentación y eliminación
+                p.text-center Espacios ventilados, secos, con áreas diferenciadas para descanso, alimentación y eliminación.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema8/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Felinos
-                p.text-center Ambientes verticales, escondites accesibles, areneros separados del área de comida
+                p.text-center Ambientes verticales, escondites accesibles, areneros separados del área de comida.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema8/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Aves
@@ -226,11 +226,11 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema8/16.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Roedores y lagomorfos
-                p.text-center Recintos con sustrato absorbente, refugios y objetos para roer
+                p.text-center Recintos con sustrato absorbente, refugios y objetos para roer.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema8/17.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Reptiles y peces
-                p.text-center Terrarios y acuarios específicos, con control riguroso de temperatura, humedad y calidad del agua
+                p.text-center Terrarios y acuarios específicos, con control riguroso de temperatura, humedad y calidad del agua.
           .col-lg-4.order-lg-1
             figure
               img(src='@/assets/curso/tema8/2.png', alt='')

@@ -205,27 +205,27 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema4/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Perros
-                p.text-center Acceso permanente a agua potable; consumo variable según tamaño, dieta y actividad
+                p.text-center Acceso permanente a agua potable; consumo variable según tamaño, dieta y actividad.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema4/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Gatos
-                p.text-center Acceso continuo; mayor requerimiento con dietas secas
+                p.text-center Acceso continuo; mayor requerimiento con dietas secas.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema4/16.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Conejos
-                p.text-center Agua fresca constante; alta dependencia por dieta rica en fibra
+                p.text-center Agua fresca constante; alta dependencia por dieta rica en fibra.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema4/17.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Roedores
-                p.text-center Agua diaria en bebederos higiénicos
+                p.text-center Agua diaria en bebederos higiénicos.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema4/18.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Aves
-                p.text-center Agua limpia para beber y para el acicalamiento
+                p.text-center Agua limpia para beber y para el acicalamiento.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema4/19.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Peces
-                p.text-center Calidad del agua como medio de vida (pH, temperatura, oxígeno)
+                p.text-center Calidad del agua como medio de vida (pH, temperatura, oxígeno).
           .col-lg-4.order-lg-1
             figure
               img(src='@/assets/curso/tema4/13.png', alt='')
@@ -687,7 +687,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Alimentación equilibrada – ampliación técnica
     
-    p.mb-5 Esta sección amplía la información anterior incluyendo dietas alternativas, alimentación complementaria y medicada, así como la composición nutricional de concentrados comerciales según especie y etapa. Se destacan también frutas, verduras, semillas, forrajes y leguminosas seguras, esenciales para enriquecer la dieta y promover bienestar digestivo y emocional.
+    p.mb-5 Esta sección amplía la información anterior, incluyendo dietas alternativas, alimentación complementaria y medicada, así como la composición nutricional de concentrados comerciales según especie y etapa. Se destacan también frutas, verduras, semillas, forrajes y leguminosas seguras, esenciales para enriquecer la dieta y promover bienestar digestivo y emocional.
 
     .titulo-con-imagen-2.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo-2
@@ -820,19 +820,19 @@
       .col-lg-3.mb-3.mb-lg-0.d-flex
         .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Morera (Morus alba)
-          p.mb-0 Conejos 5–8 %, Cobayos hasta 10 %
+          p.mb-0 Conejos 5–8 %, cobayos hasta 10 %.
       .col-lg-3.mb-3.mb-lg-0.d-flex
         .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Alfalfa (Medicago sativa)
-          p.mb-0 Útil en gestantes/lactantes, evitar exceso en adultos
+          p.mb-0 Útil en gestantes/lactantes; evitar exceso en adultos.
       .col-lg-3.mb-3.mb-lg-0.d-flex
         .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Trébol (Trifolium spp.)
-          p.mb-0 Introducción gradual, hasta 5–8 %
+          p.mb-0 Introducción gradual, hasta 5–8 %.
       .col-lg-3.mb-3.mb-lg-0.d-flex
         .bg-color-7.p-4.text-center.align-items-center.justify-content-center.w-100
           h5 Vainas verdes (arveja/fríjol tierno)
-          p.mb-0 Vainas verdes (arveja/fríjol tierno)
+          p.mb-0 Vainas verdes (arveja/fríjol tierno).
     
     .titulo-con-imagen-2.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo-2
@@ -1024,14 +1024,14 @@
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
-                img(src="@/assets/curso/tema4/36.png")
+                img(src="@/assets/curso/tema4/37.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Aves ornamentales
               p Aguacate (contiene persina, altamente tóxica); chocolate; cafeína; alcohol; sal; semillas de manzana; cebolla y ajo; alimentos fritos, mohosos o vencidos.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
-                img(src="@/assets/curso/tema4/36.png")
+                img(src="@/assets/curso/tema4/38.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Peces ornamentales
               p Pan, arroz u otros alimentos humanos; carne cruda; exceso de alimento; insectos contaminados; alimentos vencidos o en mal estado, por el impacto negativo en la calidad del agua.
@@ -1055,7 +1055,7 @@
           div(titulo="Normas del ICA y guías de bienestar animal")
             p Prohíben el uso de alimentos vencidos, contaminados o perjudiciales para la salud animal.
     
-    p.mb-5 Una nutrición adecuada es la base del bienestar animal. Garantizar una dieta balanceada, libre de alimentos prohibidos y ajustada a las necesidades fisiológicas de cada especie es una responsabilidad ética, técnica y legal del tutor. El desconocimiento de estas prohibiciones no exime de responsabilidad. Alimentar incorrectamente a una mascota, aunque sea de forma no intencional, constituye maltrato por negligencia
+    p.mb-5 Una nutrición adecuada es la base del bienestar animal. Garantizar una dieta balanceada, libre de alimentos prohibidos y ajustada a las necesidades fisiológicas de cada especie es una responsabilidad ética, técnica y legal del tutor. El desconocimiento de estas prohibiciones no exime de responsabilidad. Alimentar incorrectamente a una mascota, aunque sea de forma no intencional, constituye maltrato por negligencia.
 
 
 

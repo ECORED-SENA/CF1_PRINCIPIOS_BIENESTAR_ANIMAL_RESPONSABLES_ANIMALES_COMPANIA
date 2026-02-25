@@ -282,71 +282,71 @@ export default {
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
-        {
-          id: 11,
-          texto:
-            'Los gatos pueden alimentarse con comida para perros sin consecuencias.',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Verdadero.', esCorrecta: false },
-            { id: 'b', texto: 'Falso.', esCorrecta: true },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 12,
-          texto:
-            'La empatía humano–animal permite interpretar mejor el lenguaje corporal del animal.',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Verdadero.', esCorrecta: true },
-            { id: 'b', texto: 'Falso.', esCorrecta: false },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 13,
-          texto:
-            'Los peces requieren una iluminación continua durante las 24 horas.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Verdadero.', esCorrecta: false },
-            { id: 'b', texto: 'Falso.', esCorrecta: true },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 14,
-          texto:
-            'Los conejos pueden desarrollar enfermedades digestivas si no tienen una dieta rica en fibra.',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Verdadero.', esCorrecta: true },
-            { id: 'b', texto: 'Falso.', esCorrecta: false },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
-        {
-          id: 15,
-          texto:
-            'Encadenar permanentemente a un perro se considera una forma de maltrato.',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            { id: 'a', texto: 'Verdadero.', esCorrecta: true },
-            { id: 'b', texto: 'Falso.', esCorrecta: false },
-          ],
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
-        },
+        //{
+        //  id: 11,
+        //  texto:
+        //    'Los gatos pueden alimentarse con comida para perros sin consecuencias.',
+        //  imagen: require('@/assets/actividad/imagen3.png'),
+        //  barajarRespuestas: true,
+        //  opciones: [
+        //    { id: 'a', texto: 'Verdadero.', esCorrecta: false },
+        //    { id: 'b', texto: 'Falso.', esCorrecta: true },
+        //  ],
+        //  mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+        //  mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        //},
+        //{
+        //  id: 12,
+        //  texto:
+        //    'La empatía humano–animal permite interpretar mejor el lenguaje corporal del animal.',
+        //  imagen: require('@/assets/actividad/imagen4.png'),
+        //  barajarRespuestas: true,
+        //  opciones: [
+        //    { id: 'a', texto: 'Verdadero.', esCorrecta: true },
+        //    { id: 'b', texto: 'Falso.', esCorrecta: false },
+        //  ],
+        //  mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+        //  mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        //},
+        //{
+        //  id: 13,
+        //  texto:
+        //    'Los peces requieren una iluminación continua durante las 24 horas.',
+        //  imagen: require('@/assets/actividad/imagen1.png'),
+        //  barajarRespuestas: true,
+        //  opciones: [
+        //    { id: 'a', texto: 'Verdadero.', esCorrecta: false },
+        //    { id: 'b', texto: 'Falso.', esCorrecta: true },
+        //  ],
+        //  mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+        //  mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        //},
+        //{
+        //  id: 14,
+        //  texto:
+        //    'Los conejos pueden desarrollar enfermedades digestivas si no tienen una dieta rica en fibra.',
+        //  imagen: require('@/assets/actividad/imagen2.png'),
+        //  barajarRespuestas: true,
+        //  opciones: [
+        //    { id: 'a', texto: 'Verdadero.', esCorrecta: true },
+        //    { id: 'b', texto: 'Falso.', esCorrecta: false },
+        //  ],
+        //  mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+        //  mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        //},
+        //{
+        //  id: 15,
+        //  texto:
+        //    'Encadenar permanentemente a un perro se considera una forma de maltrato.',
+        //  imagen: require('@/assets/actividad/imagen3.png'),
+        //  barajarRespuestas: true,
+        //  opciones: [
+        //    { id: 'a', texto: 'Verdadero.', esCorrecta: true },
+        //    { id: 'b', texto: 'Falso.', esCorrecta: false },
+        //  ],
+        //  mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+        //  mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        //},
       ],
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',
       mensaje_final_reprobado:

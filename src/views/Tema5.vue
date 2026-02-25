@@ -15,7 +15,7 @@
         .bg-color-5.px-4.py-5(data-aos="fade-left")
           p.mb-0 La libertad de incomodidad física y térmica asegura que los animales, tanto convencionales como no convencionales, dispongan de un entorno que les proporcione comodidad, protección y condiciones adecuadas para su bienestar. Esto incluye la capacidad de descansar, desplazarse y expresar comportamientos naturales sin experimentar dolor, estrés ni sufrimiento.
     
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema5/2.png')})`}"
       )(data-aos="zoom-in")
@@ -43,7 +43,7 @@
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-6")
           .div(titulo="Perros (razas pequeñas)")
-            p Requieren espacios protegidos, seguros y confortables que permitan movilidad y descanso sin exposición a clima extremo. Ejemplos: Chihuahua, Pinscher, Pomerania, Shih Tzu, Poodle toy, Yorkshire Terrier. Instalación: casa para perro, kennel, patio cercado, vivienda interior o combinación. Área mínima: espacio interior 4–6 m² por animal; patio o corral 8–12 m²; casa o kennel: largo del perro × 1,5 y ancho × 1,5. Condiciones: piso firme, seco y antideslizante; techo impermeable con aislamiento térmico; ventilación adecuada sin corrientes; protección frente a lluvia, viento y radiación solar; área de descanso elevada; acceso permanente a sombra y agua potable. Implementos: cama acolchada o térmica, plato de agua pesado, plato de alimento, juguetes resistentes, correa y arnés. El encadenamiento permanente o el confinamiento en espacios reducidos constituye maltrato animal.
+            p Requieren espacios protegidos, seguros y confortables que permitan movilidad y descanso sin exposición a clima extremo. Ejemplos: chihuahua, pinscher, pomerania, shih tzu, poodle toy, yorkshire terrier. Instalación: casa para perro, kennel, patio cercado, vivienda interior o combinación. Área mínima: espacio interior 4–6 m² por animal; patio o corral 8–12 m²; casa o kennel: largo del perro × 1,5 y ancho × 1,5. Condiciones: piso firme, seco y antideslizante; techo impermeable con aislamiento térmico; ventilación adecuada sin corrientes; protección frente a lluvia, viento y radiación solar; área de descanso elevada; acceso permanente a sombra y agua potable. Implementos: cama acolchada o térmica, plato de agua pesado, plato de alimento, juguetes resistentes, correa y arnés. El encadenamiento permanente o el confinamiento en espacios reducidos constituye maltrato animal.
     
           .div(titulo="Gatos")
             p Necesitan entornos interiores enriquecidos, con uso del espacio vertical, zonas de descanso y refugios que favorezcan la expresión de su comportamiento natural. Instalación: espacios interiores adaptados, casas para gatos, estanterías o refugios elevados. Área mínima: 3–4 m² por gato y espacio vertical ≥ 1,5 m de altura. Implementos: caja de arena (1 por gato + 1 adicional), arena sanitaria limpia y sin perfumes, rascadores verticales y horizontales, camas o cuevas térmicas de fácil limpieza y juguetes para estimulación física, mental y emocional.
@@ -55,7 +55,7 @@
     
     p.mb-5 Los animales no convencionales requieren espacios específicos que consideren sus características anatómicas, comportamentales y fisiológicas. Su alojamiento debe garantizar seguridad, confort y reducción del estrés.
 
-    .bg-full-width.bg-fondo-slider.mb-5
+    .bg-full-width.bg-fondo-slider
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white.tarjeta.p-4
           .row.align-items-center.p-4.p-md-5
@@ -96,7 +96,7 @@
 
     .row.justify-content-center
       .col-lg-10
-        .bg-color-2.mb-5(data-aos="fade-down")
+        .bg-color-2(data-aos="fade-down")
           .row.justify-content-center.align-items-center
             .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
               figure
@@ -104,8 +104,6 @@
             .col-lg
               .p-4
                 p.mb-0 Garantizar la libertad de incomodidad física y térmica es un deber ético, legal y técnico. Representa un componente esencial del bienestar animal y debe reflejarse en acciones cotidianas de tenencia responsable.
-
-
 
 </template>
 

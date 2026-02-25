@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Gestión del Bienestar Animal en la tenencia responsable de animales de compañía',
+      'Gestión del bienestar animal en la tenencia responsable de animales de compañía',
     Description:
       'El componente formativo destaca la importancia del bienestar animal y la tenencia responsable, reconociendo a las mascotas como seres sintientes. Expone sus cuidados físicos, emocionales y legales, incluyendo la empatía, el vínculo humano–animal y las Cinco Libertades. Subraya la obligación ética y legal de brindarles atención adecuada, alimentación, salud y un entorno digno para asegurar su calidad de vida.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -222,7 +222,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CodProg_CF01_DU.pdf',
+        download: 'downloads/73322082_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',

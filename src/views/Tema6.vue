@@ -88,10 +88,10 @@
       table
         thead
           tr
-            th.bg-color-9 Enfermedad
-            th.bg-color-9 Vacuna
-            th.bg-color-9 Vía de aplicación
-            th.bg-color-9 Edad / Frecuencia
+            th.bg-color-9.txt-p1 Enfermedad
+            th.bg-color-9.txt-p1 Vacuna
+            th.bg-color-9.txt-p1 Vía de aplicación
+            th.bg-color-9.txt-p1 Edad / Frecuencia
         tbody
           tr
             td Moquillo canino
@@ -138,10 +138,10 @@
           table
             thead
               tr
-                th.bg-color-9 Enfermedad
-                th.bg-color-9 Vacuna
-                th.bg-color-9 Vía de aplicación
-                th.bg-color-9 Frecuencia
+                th.bg-color-9.txt-p1 Enfermedad
+                th.bg-color-9.txt-p1 Vacuna
+                th.bg-color-9.txt-p1 Vía de aplicación
+                th.bg-color-9.txt-p1 Frecuencia
             tbody
               tr
                 td Panleucopenia felina
@@ -190,10 +190,10 @@
           table
             thead
               tr
-                th.bg-color-9 Enfermedad
-                th.bg-color-9 Vacuna
-                th.bg-color-9 Vía de aplicación
-                th.bg-color-9 Frecuencia
+                th.bg-color-9.txt-p1 Enfermedad
+                th.bg-color-9.txt-p1 Vacuna
+                th.bg-color-9.txt-p1 Vía de aplicación
+                th.bg-color-9.txt-p1 Frecuencia
             tbody
               tr
                 td Mixomatosis
@@ -227,8 +227,8 @@
           table
             thead
               tr
-                th.bg-color-9 Enfermedad
-                th.bg-color-9 Observación
+                th.bg-color-9.txt-p1 Enfermedad
+                th.bg-color-9.txt-p1 Observación
             tbody
               tr
                 td Newcastle
@@ -244,7 +244,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Consideraciones finales sobre vacunación
     
-    p.mb-5 Todo esquema vacunal debe quedar documentado en el carné sanitario del animal, y los refuerzos periódicos son indispensables para mantener la inmunidad. Las vacunas no reemplazan otras prácticas sanitarias como la desparasitación, la higiene o el manejo responsable. Vacunar es una obligación ética y legal del cuidador del animal, y su cumplimiento impacta positivamente en el bienestar animal, la salud pública y la convivencia segura entre animales y personas.
+    p.mb-0 Todo esquema vacunal debe quedar documentado en el carné sanitario del animal, y los refuerzos periódicos son indispensables para mantener la inmunidad. Las vacunas no reemplazan otras prácticas sanitarias como la desparasitación, la higiene o el manejo responsable. Vacunar es una obligación ética y legal del cuidador del animal, y su cumplimiento impacta positivamente en el bienestar animal, la salud pública y la convivencia segura entre animales y personas.
 
     separador
     
@@ -312,13 +312,13 @@
         
         .tabla-a.color-acento-contenido.mb-5.tabl
           table
-            caption *Advertencia sanitaria: La ivermectina está contraindicada en razas como Collie, Pastor Australiano y Shetland, debido al riesgo de neurotoxicidad.
+            caption *Advertencia sanitaria: La ivermectina está contraindicada en razas como collie, pastor australiano y shetland, debido al riesgo de neurotoxicidad.
             thead
               tr
-                th.bg-color-9 Producto
-                th.bg-color-9 Tipo de acción
-                th.bg-color-9 Vía de administración
-                th.bg-color-9 Frecuencia recomendada
+                th.bg-color-9.txt-p1 Producto
+                th.bg-color-9.txt-p1 Tipo de acción
+                th.bg-color-9.txt-p1 Vía de administración
+                th.bg-color-9.txt-p1 Frecuencia recomendada
             tbody
               tr
                 td Albendazol
@@ -363,10 +363,10 @@
           table
             thead
               tr
-                th.bg-color-9 Producto
-                th.bg-color-9 Tipo de acción
-                th.bg-color-9 Vía de administración
-                th.bg-color-9 Frecuencia recomendada
+                th.bg-color-9.txt-p1 Producto
+                th.bg-color-9.txt-p1 Tipo de acción
+                th.bg-color-9.txt-p1 Vía de administración
+                th.bg-color-9.txt-p1 Frecuencia recomendada
             tbody
               tr
                 td Fenbendazol
@@ -408,10 +408,10 @@
           table
             thead
               tr
-                th.bg-color-9 Producto
-                th.bg-color-9 Tipo de acción
-                th.bg-color-9 Vía de administración
-                th.bg-color-9 Frecuencia recomendada
+                th.bg-color-9.txt-p1 Producto
+                th.bg-color-9.txt-p1 Tipo de acción
+                th.bg-color-9.txt-p1 Vía de administración
+                th.bg-color-9.txt-p1 Frecuencia recomendada
             tbody
               tr
                 td Fenbendazol
@@ -437,18 +437,18 @@
           h5 Tabla 19.
           span Desparasitación de aves    
         
-        .tabla-a.color-acento-contenido.mb-5.tabl
+        .tabla-a.color-acento-contenido.tabl
           table
             thead
               tr
-                th.bg-color-9 Producto
-                th.bg-color-9 Tipo de acción
-                th.bg-color-9 Vía de administración
-                th.bg-color-9 Frecuencia recomendada
+                th.bg-color-9.txt-p1 Producto
+                th.bg-color-9.txt-p1 Tipo de acción
+                th.bg-color-9.txt-p1 Vía de administración
+                th.bg-color-9.txt-p1 Frecuencia recomendada
             tbody
               tr
                 td Ivermectina
-                td Endo / ectoparásitos
+                td Endo/ectoparásitos
                 td Tópico
                 td Según diagnóstico
               tr.bg-color-sintesis
@@ -512,7 +512,7 @@
         .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Administrarse de forma correcta en dosis, vía y duración
 
-    p.mb-5 La automedicación está estrictamente prohibida, especialmente en animales no convencionales, debido al alto riesgo de toxicidad por su metabolismo particular.
+    p.mb-0 La automedicación está estrictamente prohibida, especialmente en animales no convencionales, debido al alto riesgo de toxicidad por su metabolismo particular.
 
     separador
     
@@ -550,7 +550,7 @@
                     i.fas.fa-circle-check.bg-color-3
                     p.mb-0 Implementar enriquecimiento ambiental para reducir el estrés, la agresividad y las conductas autolesivas.
     
-    p.mb-5 En animales no convencionales, la detección del dolor suele ser tardía, por lo que la prevención adquiere un papel aún más relevante en la protección de su bienestar.
+    p.mb-0 En animales no convencionales, la detección del dolor suele ser tardía, por lo que la prevención adquiere un papel aún más relevante en la protección de su bienestar.
 
     separador
     
@@ -616,23 +616,23 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema6/12.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Diclofenaco
-                p.text-center Daño renal agudo, ulceración gástrica, hemorragias internas
+                p.text-center Daño renal agudo, ulceración gástrica, hemorragias internas.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema6/13.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Ibuprofeno
-                p.text-center Ulcerogénico y nefrotóxico, incluso en dosis bajas
+                p.text-center Ulcerogénico y nefrotóxico, incluso en dosis bajas.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema6/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Naproxeno
-                p.text-center Vida media prolongada en caninos, favorece toxicidad acumulativa
+                p.text-center Vida media prolongada en caninos, favorece toxicidad acumulativa.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema6/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Aspirina sin control veterinario
-                p.text-center Alteraciones de coagulación, sangrado digestivo, daño renal
+                p.text-center Alteraciones de coagulación, sangrado digestivo, daño renal.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema6/16.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Paracetamol (acetaminofén)
-                p.text-center Hepatotoxicidad; solo bajo prescripción estricta, en dosis controladas y por tiempos limitados
+                p.text-center Hepatotoxicidad; solo bajo prescripción estricta, en dosis controladas y por tiempos limitados.
           .col-lg-4.order-lg-1
             figure
               img(src='@/assets/curso/tema6/11.png', alt='')
@@ -684,8 +684,8 @@
           table
             thead
               tr
-                th.bg-color-9 Cantidad ingerida
-                th.bg-color-9 Efecto potencial
+                th.bg-color-9.txt-p1 Cantidad ingerida
+                th.bg-color-9.txt-p1 Efecto potencial
             tbody
               tr
                 td 50–60 mg/kg
@@ -709,28 +709,28 @@
                 ul.lista-ul--color
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Edema facial y de extremidades
+                    p.mb-0 Edema facial y de extremidades.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
                     p.mb-0 Dificultad respiratoria.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Salivación excesiva
+                    p.mb-0 Salivación excesiva.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Vómitos
+                    p.mb-0 Vómitos.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Ictericia (mucosas amarillas)
+                    p.mb-0 Ictericia (mucosas amarillas).
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Hipotermia, depresión
+                    p.mb-0 Hipotermia, depresión.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Necrosis hepática
+                    p.mb-0 Necrosis hepática.
                   li.mb-2.d-flex
                     i.fas.fa-circle-check.bg-color-3
-                    p.mb-0 Muerte en 24 a 72 horas si no se trata de inmediato
+                    p.mb-0 Muerte en 24 a 72 horas si no se trata de inmediato.
     
     p.mb-5 Otros medicamentos prohibidos en felinos son:
 
@@ -798,7 +798,7 @@
                 h5.mb-0 Medicamentos humanos sin receta
             .bg-color-1.w-100.d-flex.align-items-center.justify-content-center
               .p-3.text-center
-                p.mb-0 Alta toxicidad y riesgo de muerte rápida
+                p.mb-0 Alta toxicidad y riesgo de muerte rápida.
       .col-md-6.col-lg-2.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema6/19.svg', style="max-width: 90px" alt='AvatarTop')
@@ -811,7 +811,7 @@
                 h5.mb-0 Ivermectina sin dosificación precisa
             .bg-color-1.w-100.d-flex.align-items-center.justify-content-center
               .px-3.py-4.p-lg-3.text-center
-                p.mb-0 Riesgo de neurotoxicidad severa
+                p.mb-0 Riesgo de neurotoxicidad severa.
       .col-md-6.col-lg-2.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema6/19.svg', style="max-width: 90px" alt='AvatarTop')
@@ -824,7 +824,7 @@
                 h5.mb-0 Metales pesados (zinc, plomo)
             .bg-color-1.w-100.d-flex.align-items-center.justify-content-center
               .p-3.text-center
-                p.mb-0 Intoxicación crónica por objetos o jaulas contaminadas
+                p.mb-0 Intoxicación crónica por objetos o jaulas contaminadas.
 
     p.mb-5 La intoxicación por metales pesados es una causa frecuente de enfermedad y muerte en aves que viven en contacto con jaulas oxidadas, alambres o elementos decorativos no seguros.
 
@@ -848,7 +848,7 @@
                 h5.mb-0 Paracetamol
             .bg-color-1.w-100.d-flex.align-items-center.justify-content-center
               .p-3.text-center
-                p.mb-0 Altamente tóxico, incluso en dosis bajas
+                p.mb-0 Altamente tóxico, incluso en dosis bajas.
       .col-md-6.col-lg-2.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema6/19.svg', style="max-width: 90px" alt='AvatarTop')
@@ -861,7 +861,7 @@
                 h5.mb-0 Antiinflamatorios humanos
             .bg-color-1.w-100.d-flex.align-items-center.justify-content-center
               .p-3.text-center
-                p.mb-0 Potencialmente mortales por acumulación
+                p.mb-0 Potencialmente mortales por acumulación.
       .col-md-6.col-lg-2.mb-3.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema6/19.svg', style="max-width: 90px" alt='AvatarTop')
@@ -874,12 +874,9 @@
                 h5.mb-0 Antibióticos no ajustados
             .bg-color-1.w-100.d-flex.align-items-center.justify-content-center
               .px-4.py-3.text-center
-                p.mb-0 Peligro de toxicidad hepática y renal
+                p.mb-0 Peligro de toxicidad hepática y renal.
     
-    p.mb-5 La administración de medicamentos en reptiles y roedores debe estar basada en protocolos específicos, considerando factores como temperatura ambiental, tasa metabólica y peso corporal exacto.
-
-
-
+    p.mb-0 La administración de medicamentos en reptiles y roedores debe estar basada en protocolos específicos, considerando factores como temperatura ambiental, tasa metabólica y peso corporal exacto.
 
 </template>
 

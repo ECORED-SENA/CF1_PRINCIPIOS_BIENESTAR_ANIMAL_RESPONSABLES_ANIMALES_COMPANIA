@@ -8,7 +8,7 @@
       h1 Libertad de miedo y estrés
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         .row.mb-5
           .col-lg-4.order-lg-2.mb-3.mb-lg-0
             figure
@@ -17,7 +17,7 @@
             .bg-color-5.px-4.py-5(data-aos="fade-left")
               p.mb-0 La libertad de miedo y estrés es un principio clave del bienestar animal que establece que todos los animales deben vivir en condiciones que promuevan su equilibrio emocional y psicológico. Este principio garantiza que puedan desarrollarse sin miedo constante, tensión innecesaria ni ansiedad prolongada. La exposición continua a situaciones estresantes afecta tanto el comportamiento como la salud física y mental del animal. Los efectos fisiológicos del estrés crónico son: 
 
-        .row.align-items-start.mb-5
+        .row.align-items-start.mb-4
           .col-lg-3.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema8/2.png", alt="").mb-4.mb-lg-0
@@ -38,7 +38,7 @@
               .div(titulo="Disminución de la esperanza y calidad de vida")
                 p Un animal estresado vive menos y en peores condiciones.
 
-    p.mb-5 Este principio aplica de forma universal tanto a mascotas convencionales (perros y gatos) como a mascotas no convencionales (aves ornamentales, roedores, lagomorfos, reptiles, peces y especies exóticas permitidas). El entorno, el manejo y la interacción humana deben adaptarse a las necesidades específicas de cada especie para evitar la aparición de estrés.
+    p.mb-0 Este principio aplica de forma universal tanto a mascotas convencionales (perros y gatos) como a mascotas no convencionales (aves ornamentales, roedores, lagomorfos, reptiles, peces y especies exóticas permitidas). El entorno, el manejo y la interacción humana deben adaptarse a las necesidades específicas de cada especie para evitar la aparición de estrés.
 
     separador
     
@@ -47,7 +47,7 @@
     
     p.mb-5 El trato y manejo son factores determinantes para que el animal no se sienta amenazado. Una manipulación inadecuada es una de las principales fuentes de malestar y puede desencadenar miedo, estrés y conductas agresivas o de escape. Un manejo respetuoso y progresivo contribuye a la confianza y a una relación armónica entre el animal y el cuidador. Las recomendaciones por tipo de mascota son: 
 
-    .bg-full-width.bg-fondo-slider.mb-5
+    .bg-full-width.bg-fondo-slider
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white.tarjeta.p-4
           .row.align-items-center.p-4.p-md-5
@@ -86,13 +86,13 @@
           h5 Tabla 19.
           span Inicio de las rutinas según la especie y la edad
         
-        .tabla-a.color-acento-contenido.mb-5.tabl
+        .tabla-a.color-acento-contenido.tabl
           table
             thead
               tr
-                th.bg-color-9 Especie
-                th.bg-color-9 Edad de inicio recomendada
-                th.bg-color-9 Rutinas sugeridas
+                th.bg-color-9.txt-p1 Especie
+                th.bg-color-9.txt-p1 Edad de inicio recomendada
+                th.bg-color-9.txt-p1 Rutinas sugeridas
             tbody
               tr
                 td Caninos
@@ -121,7 +121,7 @@
       h2 8.3 Educación y adaptación
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         p.mb-5 La educación animal es un proceso progresivo que va más allá del adiestramiento. Su objetivo es facilitar la adaptación del animal al entorno humano, establecer normas de convivencia y promover comportamientos adecuados, sin alterar la naturaleza de la especie. Las etapas de la educación y adaptación son: 
 
         .row.mb-5.justify-content-center
@@ -152,7 +152,7 @@
               h4.text-center Etapa adulta
               p.text-center Requiere refuerzo continuo de comportamientos adecuados y adaptación a cambios fisiológicos o ambientales.
 
-        p.mb-5 En mascotas no convencionales, la educación se basa en la habituación progresiva al entorno, evitando el contacto excesivo y respetando las conductas naturales de cada especie. 
+        p.mb-0 En mascotas no convencionales, la educación se basa en la habituación progresiva al entorno, evitando el contacto excesivo y respetando las conductas naturales de cada especie. 
 
         separador
         
@@ -169,7 +169,7 @@
                   figure
                     img(src='@/assets/curso/tema8/9.svg', alt='Texto que describa la imagen')
               h4.text-center Desensibilización temprana
-              p.text-center Introducir gradualmente sonidos leves desde edades juveniles (6–12 semanas)
+              p.text-center Introducir gradualmente sonidos leves desde edades juveniles (6–12 semanas).
         
           .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-up")
             .tarjeta--boton.bg-color-6.p-4.h-100
@@ -197,7 +197,7 @@
               h4.text-center Evitar castigos
               p.text-center No castigar al animal por mostrar miedo; esto intensifica la reacción negativa.
 
-    p.mb-5 En especies sensibles como aves y pequeños mamíferos, el ruido debe evitarse al máximo, ubicándolos en zonas tranquilas y protegidas, ya que el estrés agudo puede causar la muerte.
+    p.mb-0 En especies sensibles como aves y pequeños mamíferos, el ruido debe evitarse al máximo, ubicándolos en zonas tranquilas y protegidas, ya que el estrés agudo puede causar la muerte.
 
     separador
     

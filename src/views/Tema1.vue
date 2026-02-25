@@ -9,7 +9,7 @@
     
     p.mb-5 Las mascotas forman parte integral de la vida social, familiar y comunitaria de las personas. Su presencia no solo cumple funciones de compañía, recreación, apoyo emocional o asistencia, sino que establece una relación directa de dependencia y responsabilidad entre el animal y el ser humano. Esta relación implica compromisos éticos, legales y sanitarios, orientados a garantizar condiciones de vida dignas, seguras y acordes con las necesidades biológicas y comportamentales de cada especie.
     
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/1.png')})`}"
       )(data-aos="zoom-in")
@@ -17,7 +17,7 @@
         p.mb-0 El concepto de mascota ha evolucionado: de una visión utilitaria o recreativa se ha pasado a un enfoque moderno basado en el bienestar animal, la sintiencia y la protección legal, reconociendo que los animales no son objetos, sino seres vivos que requieren cuidados integrales durante toda su vida.
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         separador
         
         #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -83,7 +83,7 @@
                         i.fas.fa-circle-check.bg-color-3
                         p.mb-0 La prevención del sufrimiento físico y emocional.
 
-        p.mb-5 Desde el enfoque de bienestar animal, la mascota es reconocida como un ser sintiente, capaz de experimentar emociones y sensaciones, lo que convierte su tenencia en un acto de responsabilidad permanente, y no en una decisión temporal o circunstancial.
+        p.mb-0 Desde el enfoque de bienestar animal, la mascota es reconocida como un ser sintiente, capaz de experimentar emociones y sensaciones, lo que convierte su tenencia en un acto de responsabilidad permanente, y no en una decisión temporal o circunstancial.
 
     separador
     
@@ -92,7 +92,7 @@
 
     p.mb-5 Las mascotas pueden clasificarse según su grado de domesticación, características biológicas y requerimientos de manejo. A continuación se presentan los principales tipos en formato comparativo:
 
-    .bg-full-width.bg-fondo-slider.mb-5
+    .bg-full-width.bg-fondo-slider
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white.tarjeta.p-4
           .row.align-items-center.p-4.p-md-5
@@ -111,7 +111,7 @@
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
                   p.mb-0 Requieren cuidados específicos (nutrición, salud, ejercicio, socialización)
-              p <b>Ejemplos</b>: Perros, gatos
+              p <b>Ejemplos</b>: Perros, gatos.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -128,7 +128,7 @@
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
                   p.mb-0 Exigen conocimientos específicos sobre fisiología, ambiente y alimentación
-              p <b>Ejemplos</b>: Aves ornamentales, peces, hámster, cobayo, conejos, reptiles autorizados
+              p <b>Ejemplos</b>: Aves ornamentales, peces, hámster, cobayo, conejos, reptiles autorizados.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -145,7 +145,7 @@
                 li.mb-2.d-flex
                   i.fas.fa-circle-check.bg-color-3
                   p.mb-0 Se rigen por protocolos estrictos de bienestar y salud
-              p <b>Ejemplos</b>: Animales de asistencia, de apoyo emocional, de terapia
+              p <b>Ejemplos</b>: Animales de asistencia, de apoyo emocional, de terapia.
     
     separador
     
@@ -380,11 +380,10 @@
       .titulo-con-imagen__fondo-2
         img.titulo-con-imagen__imagen-2(src="@/assets/componentes/2.svg")
         h3.titulo-con-imagen__texto-2 Roedores domésticos
-    
-    p.mb-5 Los roedores domésticos, como hámsteres o cobayos, poseen un metabolismo acelerado y una notable sensibilidad al entorno. Aunque su tamaño es reducido, requieren cuidados intensivos, especialmente relacionados con su alimentación, enriquecimiento ambiental y manejo del estrés.
 
     .bg-full-width.bg-fondo-1
-      .p-4.p-md-5
+      .px-4.px-md-5
+        p.mb-5 Los roedores domésticos, como hámsteres o cobayos, poseen un metabolismo acelerado y una notable sensibilidad al entorno. Aunque su tamaño es reducido, requieren cuidados intensivos, especialmente relacionados con su alimentación, enriquecimiento ambiental y manejo del estrés.
         .row.justify-content-center.mb-5.align-items-center
           .col-lg-8.mb-3.mb-lg-0.order-lg-2
             SlyderF(columnas="col-12 col-lg-6")
@@ -429,7 +428,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-        h3.titulo-con-imagen__texto Características Comportamentales en Mascotas Convencionales
+        h3.titulo-con-imagen__texto Características comportamentales en mascotas convencionales
     
     p.mb-5 Las mascotas convencionales, como perros y gatos, muestran comportamientos influenciados por su historia evolutiva y su cercanía con el ser humano. Entender sus señales y necesidades favorece una convivencia segura, afectiva y equilibrada.
 
@@ -584,7 +583,7 @@
         
         p.mb-5 Un manejo comportamental inadecuado puede provocar consecuencias graves tanto para la mascota como para sus tutores. Entre los problemas más frecuentes se encuentran:
 
-        .row.justify-content-center
+        .row.justify-content-center.mb-5
           .col-lg-2.mb-3.mb-lg-0.d-flex
             .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Agresividad
@@ -605,7 +604,7 @@
 
         .row.justify-content-center
           .col-lg-8
-            .bg-color-2.mb-5(data-aos="fade-up")
+            .bg-color-2(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
@@ -638,7 +637,7 @@
 
         .row.justify-content-center
           .col-lg-10
-            .bg-color-2.mb-5(data-aos="fade-up")
+            .bg-color-2(data-aos="fade-up")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
@@ -662,7 +661,7 @@
                         i.fas.fa-circle-check.bg-color-3
                         p.mb-0 Promover entornos seguros que minimicen el miedo, el estrés y la frustración.
 
-    p.mb-5 Este enfoque transforma la relación humano-animal en una relación ética, en la cual el cuidado y la protección del animal no son opcionales, sino una obligación moral y legal. Reconocer la sintiencia significa, en esencia, reconocer la dignidad del animal como ser vivo.
+    p.mb-0 Este enfoque transforma la relación humano-animal en una relación ética, en la cual el cuidado y la protección del animal no son opcionales, sino una obligación moral y legal. Reconocer la sintiencia significa, en esencia, reconocer la dignidad del animal como ser vivo.
 
     separador
     
@@ -670,12 +669,12 @@
       h2 1.6 Normatividad aplicable
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         p.mb-5 En Colombia, la tenencia de mascotas está respaldada por un marco normativo robusto que protege el bienestar animal, fomenta la convivencia ciudadana y resguarda la salud pública. Esta normatividad abarca desde el reconocimiento de los animales como seres sintientes, hasta la regulación del manejo de especies domésticas y no convencionales. A continuación, se resumen las principales normas aplicables:
 
         .row.justify-content-center
           .col-lg-7
-            LineaTiempoE.color-acento-contenido
+            LineaTiempoE.color-acento-contenido.mb-5
               div(titulo="Ley 1774 de 2016")
                 p Reconoce a los animales como seres sintientes. Penaliza el maltrato animal y establece medidas de protección.
               div(titulo="Ley 2054 de 2020")
@@ -693,7 +692,7 @@
 
         .row.justify-content-center
           .col-lg-10
-            .bg-color-2.mb-5(data-aos="fade-up")
+            .bg-color-2(data-aos="fade-right")
               .row.justify-content-center.align-items-center
                 .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
@@ -713,8 +712,6 @@
                       li.mb-2.d-flex
                         i.fas.fa-circle-check.bg-color-3
                         p.mb-0 Promover una convivencia armónica entre las personas y sus mascotas.
-
-
 
 </template>
 

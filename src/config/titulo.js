@@ -1,2 +1,2 @@
 module.exports =
-  'Gestión del Bienestar Animal en la tenencia responsable de animales de compañía'
+  'Gestión del bienestar animal en la tenencia responsable de animales de compañía'

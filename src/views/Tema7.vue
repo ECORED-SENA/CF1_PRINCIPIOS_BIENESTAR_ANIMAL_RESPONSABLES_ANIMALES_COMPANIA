@@ -8,7 +8,7 @@
       h1 Libertad de expresar su comportamiento natural
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         .row.mb-5
           .col-lg-4.order-lg-2.mb-3.mb-lg-0
             figure
@@ -64,7 +64,7 @@
                         i.fas.fa-circle-check.bg-color-3
                         p.mb-0 Deterioro general de la calidad de vida.
 
-    p.mb-5 Este principio se aplica tanto a mascotas convencionales (perros y gatos) como a mascotas no convencionales (aves, roedores, lagomorfos, reptiles, peces y especies exóticas permitidas). Siempre debe adaptarse a las necesidades particulares de cada especie, evitando la humanización excesiva y el manejo inadecuado por desconocimiento.
+    p.mb-0 Este principio se aplica tanto a mascotas convencionales (perros y gatos) como a mascotas no convencionales (aves, roedores, lagomorfos, reptiles, peces y especies exóticas permitidas). Siempre debe adaptarse a las necesidades particulares de cada especie, evitando la humanización excesiva y el manejo inadecuado por desconocimiento.
 
     separador
     
@@ -166,7 +166,7 @@
         img.titulo-con-imagen__imagen-2(src="@/assets/componentes/2.svg")
         h3.titulo-con-imagen__texto-2 Reptiles y anfibios (tortugas, iguanas, geckos, ranas)
 
-    .row.align-items-start.mb-5
+    .row.align-items-start
       .col-lg-3.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema7/8.png", alt="").mb-4.mb-lg-0
@@ -187,8 +187,8 @@
     p.mb-5 El espacio disponible es un factor determinante para que los animales puedan expresar sus comportamientos naturales de forma saludable. Un entorno limitado o inadecuado restringe su movilidad, afecta su bienestar físico y emocional y favorece la aparición de conductas anómalas.
 
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
-        .row.align-items-start.mb-5
+      .px-4.px-md-5
+        .row.align-items-start
           .col-lg-3.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema7/8.png", alt="").mb-4.mb-lg-0
@@ -204,22 +204,21 @@
         separador
         
         #t_7_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 7.3 Espacio para movimiento libre
+          h2 7.3 Elementos de entretenimiento y estimulación
         
         p.mb-5 El enriquecimiento ambiental es una estrategia fundamental para mantener el equilibrio emocional y evitar el aburrimiento, la frustración y la aparición de comportamientos indeseados. Este debe estar adaptado a las capacidades físicas, sensoriales y cognitivas de cada especie. La comparación de elementos de estimulación es: 
 
-        .tarjeta--container.row.mb-5
-          .col-md.tarjeta.color-primario.bg-color-1.p-5
+        .tarjeta--container.row
+          .col-md.tarjeta.color-primario.bg-color-1.px-5
             figure.mb-5
               img(src='@/assets/curso/tema7/9.png', alt='Texto descriptivo 1')
             h2 Mascotas convencionales
             p Requieren juguetes interactivos, juegos de olfato, rascadores, plataformas, entrenamiento con refuerzo positivo e interacción diaria con el cuidador.
-          .col-md.tarjeta.color-primario.bg-color-7.p-5
+          .col-md.tarjeta.color-primario.bg-color-7.px-5
             figure.mb-5
               img(src='@/assets/curso/tema7/10.png', alt='Texto descriptivo 2')
             h2 Mascotas no convencionales
             p Deben contar con objetos para roer, oportunidades de forrajeo controlado, refugios, túneles, elementos naturales seguros y cambios ambientales graduales. Todo enriquecimiento debe ser supervisado, específico para cada especie y compatible con sus comportamientos naturales.
-
 
 </template>
 

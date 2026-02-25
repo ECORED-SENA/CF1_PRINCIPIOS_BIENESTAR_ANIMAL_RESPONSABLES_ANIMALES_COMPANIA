@@ -8,7 +8,7 @@
       h1 Empatía humano–animal
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         .row.mb-5
           .col-lg-4.order-lg-2.mb-3.mb-lg-0
             figure
@@ -170,7 +170,7 @@
             i.fas.fa-circle-check.bg-color-3
             p.mb-0 Compromete la convivencia y la seguridad humana.
 
-    p.mb-5 Establecer un vínculo emocional sano y desarrollar una empatía activa con los animales no solo es un acto de humanidad, sino una condición esencial para el bienestar animal, la tenencia responsable y la convivencia armónica en los entornos familiares y comunitarios.
+    p.mb-0 Establecer un vínculo emocional sano y desarrollar una empatía activa con los animales no solo es un acto de humanidad, sino una condición esencial para el bienestar animal, la tenencia responsable y la convivencia armónica en los entornos familiares y comunitarios.
 
     separador
     
@@ -178,7 +178,8 @@
       h2 2.2 Relación animal–animal
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
+
         p.mb-5 La relación animal–animal se refiere a las interacciones sociales que se establecen entre animales de la misma especie o de especies diferentes que comparten un mismo entorno. Estas relaciones tienen especial relevancia en especies sociales, en las cuales el contacto con otros animales forma parte de su comportamiento natural y es esencial para su bienestar integral. Las características de la relación animal–animal son: 
 
         SlyderF(columnas="col-12 col-lg-4").mb-5
@@ -235,7 +236,7 @@
     
     p.mb-5 No obstante, la convivencia entre animales sin una planificación adecuada puede generar conflictos. Factores como la introducción abrupta de nuevos individuos, la falta de espacio, la competencia por recursos o la ausencia de supervisión humana pueden dar lugar a:
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-2.mb-3.mb-lg-0.d-flex
         .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 Conflictos jerárquicos o territoriales.
@@ -247,7 +248,7 @@
           h5.mb-0 Estrés crónico.
       .col-lg-2.mb-3.mb-lg-0.d-flex
         .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
-          h5.mb-0 Estrés crónico.
+          h5.mb-0 Lesiones o enfermedades asociadas.
     
     p.mb-5 Por ello, el tutor debe asumir un rol activo en la supervisión, regulación y facilitación de interacciones seguras, compatibles y progresivas entre los animales que conviven en un mismo entorno.
 
@@ -278,10 +279,7 @@
             data-aos="zoom-in"
           )
     
-    p.mb-5 Una relación empática y responsable, tanto entre personas y animales como entre los propios animales, mejora su calidad de vida, fortalece los lazos familiares y comunitarios, reduce riesgos para la salud pública y consolida una cultura de respeto hacia los animales como seres sintientes.
-
-
-
+    p.mb-0 Una relación empática y responsable, tanto entre personas y animales como entre los propios animales, mejora su calidad de vida, fortalece los lazos familiares y comunitarios, reduce riesgos para la salud pública y consolida una cultura de respeto hacia los animales como seres sintientes.
 
 </template>
 

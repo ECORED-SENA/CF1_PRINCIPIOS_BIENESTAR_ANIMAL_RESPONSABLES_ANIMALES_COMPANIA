@@ -8,9 +8,9 @@
       h1 Libertad de hambre, sed y desnutrición
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         p.mb-5 La libertad de hambre, sed y desnutrición garantiza que todo animal bajo cuidado humano reciba alimento y agua en cantidad suficiente, calidad adecuada y frecuencia correcta, ajustadas a sus necesidades biológicas específicas. Esta libertad constituye uno de los pilares fundamentales del bienestar animal, ya que incide directamente en:
-        .row.justify-content-center.align-items-stretch.mb-5
+        .row.justify-content-center.align-items-stretch
           .col-lg-3.mb-3.mb-lg-0.d-flex
             .bg-color-7.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 La salud física y metabólica.
@@ -170,7 +170,7 @@
             h2.text-center Estado fisiológico o de salud
             p.text-center Gestación, lactancia, enfermedad o recuperación.
       
-        p.mb-5 Este enfoque exige una atención individualizada y proactiva, así como el acompañamiento de profesionales veterinarios en la formulación de dietas, especialmente en animales con requerimientos específicos.
+        p.mb-0 Este enfoque exige una atención individualizada y proactiva, así como el acompañamiento de profesionales veterinarios en la formulación de dietas, especialmente en animales con requerimientos específicos.
 
     separador
     
@@ -245,10 +245,10 @@
       table
         thead
           tr
-            th.bg-color-9 Mascota
-            th.bg-color-9 Etapa de vida
-            th.bg-color-9 Consumo diario estimado
-            th.bg-color-9 Observaciones importantes
+            th.bg-color-9.txt-p1 Mascota
+            th.bg-color-9.txt-p1 Etapa de vida
+            th.bg-color-9.txt-p1 Consumo diario estimado
+            th.bg-color-9.txt-p1 Observaciones importantes
         tbody
           tr
             td Perro
@@ -280,8 +280,6 @@
             td Senior
             td 45–60 ml/kg/día
             td Fundamental para salud renal
-
-    
 
     p.mb-5 Las recomendaciones generales para mascotas convencionales:
 
@@ -329,9 +327,9 @@
             caption Nota técnica. En peces, los cambios bruscos de pH o temperatura generan estrés severo, alteraciones fisiológicas y alta mortalidad.
             thead
               tr
-                th.bg-color-9 Mascota
-                th.bg-color-9 pH recomendado
-                th.bg-color-9 Temperatura del agua
+                th.bg-color-9.txt-p1 Mascota
+                th.bg-color-9.txt-p1 pH recomendado
+                th.bg-color-9.txt-p1 Temperatura del agua
             tbody
               tr
                 td Perros y gatos
@@ -354,8 +352,6 @@
                 td 6.8 – 7.6
                 td 18 – 22 °C
 
-
-
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
@@ -363,7 +359,7 @@
     
     p.mb-5 En los peces, el agua no es solo un recurso, sino su medio vital. Su calidad determina directamente:
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-2.mb-3.mb-lg-0.d-flex
         .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
           h5.mb-0 La respiración branquial.
@@ -388,7 +384,6 @@
         h3.titulo-con-imagen__texto Parámetros esenciales de calidad del agua en peces
     
     p.mb-5 La siguiente tabla resume los requerimientos básicos del agua para peces de agua dulce y peces de agua fría, junto con su importancia para el bienestar animal.
-
  
     .titulo-sexto.color-acento-contenido
       h5 Tabla 3.
@@ -398,10 +393,10 @@
       table
         thead
           tr
-            th.bg-color-9 Parámetro
-            th.bg-color-9 Peces de agua dulce
-            th.bg-color-9 Peces de agua fría
-            th.bg-color-9 Importancia
+            th.bg-color-9.txt-p1 Parámetro
+            th.bg-color-9.txt-p1 Peces de agua dulce
+            th.bg-color-9.txt-p1 Peces de agua fría
+            th.bg-color-9.txt-p1 Importancia
         tbody
           tr
             td pH
@@ -432,7 +427,7 @@
             td Nitratos (NO₃)
             td < 40 mg/L
             td < 40 mg/L
-            td Controla estrés crónico
+            td Controla el estrés crónico
           tr
             td Filtración
             td Obligatoria
@@ -456,15 +451,15 @@
       h5 Tabla 4.
       span Cambios de agua en acuarios
     
-    .tabla-a.color-acento-contenido.mb-5.tabl
+    .tabla-a.color-acento-contenido.tabl
       table
         caption Advertencia. Los cambios totales de agua están contraindicados por provocar estrés extremo y alta mortalidad.
         thead
           tr
-            th.bg-color-9 Tipo de acuario
-            th.bg-color-9 Frecuencia de cambio
-            th.bg-color-9 Cantidad de agua
-            th.bg-color-9 Observaciones
+            th.bg-color-9.txt-p1 Tipo de acuario
+            th.bg-color-9.txt-p1 Frecuencia de cambio
+            th.bg-color-9.txt-p1 Cantidad de agua
+            th.bg-color-9.txt-p1 Observaciones
         tbody
           tr
             td Acuario doméstico pequeño
@@ -550,10 +545,10 @@
       table
         thead
           tr
-            th.bg-color-9 Etapa
-            th.bg-color-9 Cantidad aproximada
-            th.bg-color-9 Frecuencia
-            th.bg-color-9 Observaciones
+            th.bg-color-9.txt-p1 Etapa
+            th.bg-color-9.txt-p1 Cantidad aproximada
+            th.bg-color-9.txt-p1 Frecuencia
+            th.bg-color-9.txt-p1 Observaciones
         tbody
           tr
             td Cachorros
@@ -610,10 +605,10 @@
           table
             thead
               tr
-                th.bg-color-9 Peso promedio
-                th.bg-color-9 Cantidad diaria
-                th.bg-color-9 Frecuencia
-                th.bg-color-9 Observaciones
+                th.bg-color-9.txt-p1 Peso promedio
+                th.bg-color-9.txt-p1 Cantidad diaria
+                th.bg-color-9.txt-p1 Frecuencia
+                th.bg-color-9.txt-p1 Observaciones
             tbody
               tr
                 td 4–5 kg
@@ -704,10 +699,10 @@
       table
         thead
           tr
-            th.bg-color-9 Mascota
-            th.bg-color-9 Etapa de vida
-            th.bg-color-9 Consumo diario estimado
-            th.bg-color-9 Observaciones importantes
+            th.bg-color-9.txt-p1 Mascota
+            th.bg-color-9.txt-p1 Etapa de vida
+            th.bg-color-9.txt-p1 Consumo diario estimado
+            th.bg-color-9.txt-p1 Observaciones importantes
         tbody
           tr
             td Perro
@@ -757,9 +752,9 @@
           table
             thead
               tr
-                th.bg-color-9 Especie
-                th.bg-color-9 Semillas seguras
-                th.bg-color-9 Proporción máxima
+                th.bg-color-9.txt-p1 Especie
+                th.bg-color-9.txt-p1 Semillas seguras
+                th.bg-color-9.txt-p1 Proporción máxima
             tbody
               tr
                 td Perros
@@ -793,10 +788,10 @@
       table
         thead
           tr
-            th.bg-color-9 Especie
-            th.bg-color-9 Forrajes
-            th.bg-color-9 Leguminosas
-            th.bg-color-9 Proporción segura
+            th.bg-color-9.txt-p1 Especie
+            th.bg-color-9.txt-p1 Forrajes
+            th.bg-color-9.txt-p1 Leguminosas
+            th.bg-color-9.txt-p1 Proporción segura
         tbody
           tr
             td Conejos
@@ -811,7 +806,7 @@
           tr
             td Aves
             td Pastos tiernos
-            td Fríjol mungo germinado
+            td Frijol mungo germinado
             td ≤10 %
 
     p.mb-5 Leguminosas específicas: uso y beneficios
@@ -851,9 +846,9 @@
           table
             thead
               tr
-                th.bg-color-9 Especie
-                th.bg-color-9 Indicación
-                th.bg-color-9 Tipo de dieta
+                th.bg-color-9.txt-p1 Especie
+                th.bg-color-9.txt-p1 Indicación
+                th.bg-color-9.txt-p1 Tipo de dieta
             tbody
               tr
                 td Perros
@@ -888,11 +883,11 @@
       table
         thead
           tr
-            th.bg-color-9 Especie
-            th.bg-color-9 Etapa
-            th.bg-color-9 Proteína %
-            th.bg-color-9 Grasa %
-            th.bg-color-9 Fibra %
+            th.bg-color-9.txt-p1 Especie
+            th.bg-color-9.txt-p1 Etapa
+            th.bg-color-9.txt-p1 Proteína %
+            th.bg-color-9.txt-p1 Grasa %
+            th.bg-color-9.txt-p1 Fibra %
         tbody
           tr
             td Perro
@@ -954,7 +949,7 @@
               .custom-image-card__text.p-4
                 h5.mb-2.text-center Seniors
                 p.mb-0 Mayor contenido de fibra, control calórico, suplementos articulares.
-        p.mb-5 En especies no convencionales, evitar excesos de concentrado en herbívoros adultos.
+        p.mb-0 En especies no convencionales, evitar excesos de concentrado en herbívoros adultos.
 
         separador
         
@@ -1043,27 +1038,19 @@
     
     p.mb-5 La legislación colombiana considera el suministro de alimentos inadecuados como una forma de maltrato por negligencia. Los tutores deben conocer y cumplir con los principios legales de bienestar animal.
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-8
         LineaTiempoE.color-acento-contenido
           div(titulo="Ley 1774 de 2016")
             p Reconoce a los animales como seres sintientes y sanciona el maltrato, incluyendo el descuido alimentario.
           div(titulo="Ley 2054 de 2020")
-            p Obliga al tutor a garantizar alimentación, hidratación y bienestar integral..
+            p Obliga al tutor a garantizar alimentación, hidratación y bienestar integral.
           div(titulo="Ley 1801 de 2016 (Código Nacional de Policía)")
             p Establece que el maltrato o negligencia en la alimentación es una infracción sancionable.
           div(titulo="Normas del ICA y guías de bienestar animal")
             p Prohíben el uso de alimentos vencidos, contaminados o perjudiciales para la salud animal.
     
-    p.mb-5 Una nutrición adecuada es la base del bienestar animal. Garantizar una dieta balanceada, libre de alimentos prohibidos y ajustada a las necesidades fisiológicas de cada especie es una responsabilidad ética, técnica y legal del tutor. El desconocimiento de estas prohibiciones no exime de responsabilidad. Alimentar incorrectamente a una mascota, aunque sea de forma no intencional, constituye maltrato por negligencia.
-
-
-
-
-
-
-
-
+    p.mb-0 Una nutrición adecuada es la base del bienestar animal. Garantizar una dieta balanceada, libre de alimentos prohibidos y ajustada a las necesidades fisiológicas de cada especie es una responsabilidad ética, técnica y legal del tutor. El desconocimiento de estas prohibiciones no exime de responsabilidad. Alimentar incorrectamente a una mascota, aunque sea de forma no intencional, constituye maltrato por negligencia.
 
 </template>
 

@@ -8,7 +8,7 @@
       h1 Las cinco libertades del bienestar animal
     
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
+      .px-4.px-md-5
         p.mb-5 Las cinco libertades del bienestar animal constituyen un marco conceptual, ético y técnico universalmente aceptado para evaluar y garantizar condiciones de vida dignas a los animales bajo cuidado humano. Este enfoque establece estándares mínimos que deben cumplirse para proteger la integridad física, emocional y comportamental de los animales, reconociendo su condición de seres sintientes, capaces de experimentar dolor, placer, miedo, estrés y bienestar.
 
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
@@ -36,7 +36,7 @@
             .bg-color-1.p-4.text-center.d-flex.align-items-center.justify-content-center.w-100
               h5.mb-0 Educación y sensibilización ciudadana.
 
-        p.mb-5 Su cumplimiento es una obligación ética, social y legal, y su vulneración puede ser considerada como negligencia o maltrato.
+        p.mb-0 Su cumplimiento es una obligación ética, social y legal, y su vulneración puede ser considerada como negligencia o maltrato.
 
         separador
         
@@ -96,8 +96,8 @@
               p Reducir situaciones que generen sufrimiento emocional, evitando castigos, manipulación brusca, aislamiento prolongado o cambios abruptos en el entorno o en las rutinas.
 
     .bg-full-width.bg-color-4
-      .p-4.p-md-5
-        p.mb-5 Estas libertades están interrelacionadas y deben abordarse como un conjunto integral. Su incumplimiento parcial afecta las demás. Por ejemplo, una mala alimentación puede debilitar al animal, hacerlo más propenso a enfermedades y afectar su comportamiento y estabilidad emocional.
+      .px-4.px-md-5
+        p.mb-0 Estas libertades están interrelacionadas y deben abordarse como un conjunto integral. Su incumplimiento parcial afecta las demás. Por ejemplo, una mala alimentación puede debilitar al animal, hacerlo más propenso a enfermedades y afectar su comportamiento y estabilidad emocional.
 
         separador
         
@@ -132,9 +132,7 @@
                         i.fas.fa-circle-check.bg-color-3
                         p.mb-0 Cumplir con la normatividad vigente de protección animal.
 
-        p.mb-5 Desde una perspectiva educativa y ética, estas libertades transforman la tenencia de mascotas en un acto consciente de responsabilidad, donde el bienestar del animal se convierte en una prioridad, no en una opción.
-
-
+        p.mb-0 Desde una perspectiva educativa y ética, estas libertades transforman la tenencia de mascotas en un acto consciente de responsabilidad, donde el bienestar del animal se convierte en una prioridad, no en una opción.
 
 </template>
 
